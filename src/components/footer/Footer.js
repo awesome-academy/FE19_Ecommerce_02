@@ -71,16 +71,16 @@ const Footer = () => {
           </div>
           <div className="divider"></div>
           <div className="row">
-            <div className="col-sm-6 col-md-6 ol-lg-6">
+            <div className="col-sm-6 col-md-6 col-lg-6">
               <h3>Thanh toán</h3>
               <p><span><a href="#">
                 <img src={require("../../images/bank-1.png")} alt="" /></a></span><span><a href="#"><img src={require("../../images/bank-2.png")} alt="" /></a></span><span><a href="#"><img src={require("../../images/bank-3.png")} alt="" /></a></span><span><a href="#"><img src={require("../../images/bank-4.png")} alt="" /></a></span></p>
               <p><span><a href="#"><img src={require("../../images/bank-5.png")} alt="" /></a></span><span><a href="#"><img src={require("../../images/bank-6.png")} alt="" /></a></span><span><a href="#"><img src={require("../../images/bank-7.png")} alt="" /></a></span><span><a href="#"><img src={require("../../images/bank-8.png")} alt="" /></a></span></p>
             </div>
-            <div className="col-sm-6 col-md-6 ol-lg-6">
+            <div className="col-sm-6 col-md-6 col-lg-6">
               <h3>Giải đáp nhanh:</h3>
               <div className="row">
-                <div className="col-sm-6 col-md-6 ol-lg-6">
+                <div className="col-sm-6 col-md-6 col-lg-6">
                   <div className="footer__advisory"><span className="icon-phone1"></span>
                     <div className="footer__advisory__phone">
                       <p>Tư vấn miễn phí (24/7)</p>
@@ -88,7 +88,7 @@ const Footer = () => {
                     </div>
                   </div>
                 </div>
-                <div className="col-sm-6 col-md-6 ol-lg-6">
+                <div className="col-sm-6 col-md-6 col-lg-6">
                   <div className="footer__chat"><span className="icon-wechat"></span>
                     <div className="footer__chat__phone">
                       <p>Góp ý - phản hồi - thắc mắc</p>

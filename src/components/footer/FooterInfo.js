@@ -7,10 +7,10 @@ export default class FooterInfo extends Component {
                 <div className="footer__down">
                     <div className="container">
                         <div className="row">
-                            <div className="col-sm-6 col-md-6 ol-lg-6">
+                            <div className="col-sm-6 col-md-6 col-lg-6">
                                 <p>Bản quyền thuộc về <span>Design Team</span>. Phát triển bởi<span>Bizweb</span></p>
                             </div>
-                            <div className="col-sm-6 col-md-6 ol-lg-6">
+                            <div className="col-sm-6 col-md-6 col-lg-6">
                                 <div className="footer__down__menu">
                                     <ul>
                                         <li><Link to="/home">Trang chủ</Link></li>
